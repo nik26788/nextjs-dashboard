@@ -1,3 +1,7 @@
+From the video
+[Simplest way to build Dashboard (Next.js 15, Shadcn, TypeScript)](https://www.youtube.com/watch?v=lG_mTu0wyZA)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
